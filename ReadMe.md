@@ -2,7 +2,9 @@
 
 ## 服务器 plugin 配置
 > by ifkn271
-  - [ ] 
+  - [x] 计分板
+  - [x] tab菜单
+  - [ ] lp权限配置
   - [ ] 
 
 
@@ -18,3 +20,6 @@
 ## 网站
 > by Shield Fan
   - [ ] test
+
+
+
